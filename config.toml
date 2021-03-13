@@ -1,8 +1,8 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
+baseurl                 = "https://retire-insure-invest.web.app/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "RETIRE INSURE INVEST"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
