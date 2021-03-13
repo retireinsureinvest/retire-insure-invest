@@ -9,4 +9,5 @@ jobs:
         submodules: true
     - uses: pulimento/github-action-hugo-deploy-to-firebase@master
       with:
+        repoToken: "${{ secrets.GITHUB_TOKEN }}"
         firebase-token: ${{ secrets.secret_firebase_token }}
