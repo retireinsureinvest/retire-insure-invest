@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://retire-insure-invest.web.app/"
+baseurl                 = "https://retireinsureinvest.com/"
 DefaultContentLanguage  = "en"
 title                   = "RETIRE INSURE INVEST"
 theme                   = "hugo-future-imperfect-slim"
@@ -40,14 +40,14 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "RETIRE INSURE INVEST"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
+    header                = "RETIRE INSURE INVEST"
     paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
     rssIntro              = true
     socialIntro           = true
@@ -55,10 +55,10 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
-      shape               = "circle"
+      src                 = "img/main/logo.png"
+      shape               = "square"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Retire Insure Invest"
 
   [params.sidebar]
     about               = "This theme was developed for Hugo static site generator."
