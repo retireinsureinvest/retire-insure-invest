@@ -1,15 +1,18 @@
 +++
-title = "Emoji Support"
-description = "Guide d'utilisation des emoji dans Hugo"
 author = "Hugo Auteurs"
-date = "2019-03-05"
+date = 2019-03-05T00:00:00Z
+description = "Guide d'utilisation des emoji dans Hugo"
 tags = ["emoji"]
+title = "Emoji Support"
+[menu.main]
+name = "INVEST"
+weight = 5
 [[images]]
-  src = "img/2019/03/pic02.jpg"
-  alt = "Desert Scene"
-  stretch = "stretchH"
-+++
+alt = "Desert Scene"
+src = "img/2019/03/pic02.jpg"
+stretch = "stretchH"
 
++++
 Emoji peut être activé dans un projet Hugo de plusieurs manières.
 <!--more--->
 La fonction [`emojify`] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
