@@ -5,8 +5,8 @@ description = "Guide to emoji usage in Hugo"
 tags = ["emoji"]
 title = "Emoji Support"
 [menu.main]
-name = "RETIRE"
-weight = 3
+name = "INSURE"
+weight = 4
 [[images]]
 alt = "Desert Scene"
 src = "img/2019/03/pic02.jpg"
