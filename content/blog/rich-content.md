@@ -4,9 +4,6 @@ date = 2019-03-10T00:00:00Z
 description = "A brief description of Hugo Shortcodes"
 tags = ["shortcodes", "privacy"]
 title = "Rich Content"
-[menu.main]
-name = "RETIRE"
-weight = 3
 [[images]]
 alt = "Fox"
 src = "img/main/logo.jpg"

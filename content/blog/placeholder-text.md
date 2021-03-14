@@ -4,9 +4,6 @@ date = 2019-03-09T00:00:00Z
 description = "Lorem Ipsum Dolor Si Amet"
 tags = ["markdown", "text"]
 title = "Placeholder Text"
-[menu.main]
-name = "INVEST"
-weight = 5
 [[images]]
 alt = "Valley"
 src = "img/2019/03/pic03.jpg"

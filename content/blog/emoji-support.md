@@ -4,9 +4,6 @@ date = 2019-03-05T00:00:00Z
 description = "Guide to emoji usage in Hugo"
 tags = ["emoji"]
 title = "Emoji Support"
-[menu.main]
-name = "INSURE"
-weight = 4
 [[images]]
 alt = "Desert Scene"
 src = "img/2019/03/pic02.jpg"
