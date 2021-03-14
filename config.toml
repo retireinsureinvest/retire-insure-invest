@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://retireinsureinvest.com/"
@@ -11,213 +10,13 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
 
-=======
-DefaultContentLanguage = "en"
-baseurl = "https://retire-insure-invest.web.app/"
-disableLanguages = []
-disqusShortname = ""
-googleAnalytics = ""
-paginate = 3
-pluralizeListTitles = false
-theme = "hugo-future-imperfect-slim"
-title = "RETIRE INSURE INVEST"
-[Languages.de]
-LanguageCode = "de"
-LanguageName = "Deutsche"
-weight = 5
-[Languages.en]
-LanguageCode = "en"
-LanguageName = "English"
-weight = 1
-[Languages.es]
-LanguageCode = "es"
-LanguageName = "Española"
-weight = 6
-[Languages.fr]
-LanguageCode = "fr"
-LanguageName = "Français"
-description = "Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."
-title = "Hugo Future Imperfect Slim en français"
-weight = 2
-[[Languages.fr.menu.main]]
-identifier = "home"
-name = "Accueil"
-pre = "<i class='fas fa-home'></i>"
-url = "/"
-weight = 1
-[[Languages.fr.menu.main]]
-identifier = "about"
-name = "A Propos"
-pre = "<i class='far fa-id-card'></i>"
-url = "/about/"
-weight = 2
-[[Languages.fr.menu.main]]
-identifier = "blog"
-name = "Blog"
-pre = "<i class='far fa-newspaper'></i>"
-url = "/blog/"
-weight = 3
-[[Languages.fr.menu.main]]
-identifier = "categories"
-name = "Catégories"
-pre = "<i class='fas fa-sitemap'></i>"
-url = "/categories/"
-weight = 5
-[[Languages.fr.menu.main]]
-identifier = "contact"
-name = "Contact"
-pre = "<i class='far fa-envelope'></i>"
-url = "/contact/"
-weight = 6
-[Languages.ja]
-LanguageCode = "ja"
-LanguageName = "日本語"
-weight = 9
-[Languages.nl]
-LanguageCode = "nl"
-LanguageName = "Nederlands"
-weight = 10
-[[Languages.nl.menu.main]]
-identifier = "home"
-name = "Home"
-pre = "<i class='fas fa-home'></i>"
-url = "/"
-weight = 1
-[[Languages.nl.menu.main]]
-identifier = "about"
-name = "Over"
-pre = "<i class='far fa-id-card'></i>"
-url = "/about/"
-weight = 2
-[[Languages.nl.menu.main]]
-identifier = "blog"
-name = "Blog"
-pre = "<i class='far fa-newspaper'></i>"
-url = "/blog/"
-weight = 3
-[[Languages.nl.menu.main]]
-identifier = "categories"
-name = "Categorieën"
-pre = "<i class='fas fa-sitemap'></i>"
-url = "/categories/"
-weight = 5
-[[Languages.nl.menu.main]]
-identifier = "contact"
-name = "Contact"
-pre = "<i class='far fa-envelope'></i>"
-url = "/contact/"
-weight = 6
-[Languages.pl]
-LanguageCode = "pl"
-LanguageName = "Polski"
-description = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wielojęzyczny przez StatnMap. Zasilany przez Hugo."
-title = "Hugo Future Imperfect Slim po polsku"
-weight = 2
-[[Languages.pl.menu.main]]
-identifier = "home"
-name = "Home"
-pre = "<i class='fas fa-home'></i>"
-url = "/"
-weight = 1
-[[Languages.pl.menu.main]]
-identifier = "about"
-name = "O mnie"
-pre = "<i class='far fa-id-card'></i>"
-url = "/about/"
-weight = 2
-[[Languages.pl.menu.main]]
-identifier = "blog"
-name = "Blog"
-pre = "<i class='far fa-newspaper'></i>"
-url = "/blog/"
-weight = 3
-[[Languages.pl.menu.main]]
-identifier = "categories"
-name = "Kategorie"
-pre = "<i class='fas fa-sitemap'></i>"
-url = "/categories/"
-weight = 5
-[[Languages.pl.menu.main]]
-identifier = "contact"
-name = "Kontakt"
-pre = "<i class='far fa-envelope'></i>"
-url = "/contact/"
-weight = 6
-[Languages.pt]
-LanguageCode = "pt"
-LanguageName = "Português"
-description = "Um tema do HTML5 UP, portado por Julio Pescadora e reduzido por Patrick Collins. Multilíngue por StatnMap. Feito com Hugo."
-title = "Hugo Future Imperfect Slim em português"
-weight = 4
-[[Languages.pt.menu.main]]
-identifier = "home"
-name = "Início"
-pre = "<i class='fas fa-home'></i>"
-url = "/"
-weight = 1
-[[Languages.pt.menu.main]]
-identifier = "about"
-name = "Sobre"
-pre = "<i class='far fa-id-card'></i>"
-url = "/about/"
-weight = 2
-[[Languages.pt.menu.main]]
-identifier = "blog"
-name = "Blog"
-pre = "<i class='far fa-newspaper'></i>"
-url = "/blog/"
-weight = 3
-[[Languages.pt.menu.main]]
-identifier = "categories"
-name = "Categorias"
-pre = "<i class='fas fa-sitemap'></i>"
-url = "/categories/"
-weight = 5
-[[Languages.pt.menu.main]]
-identifier = "contact"
-name = "Contato"
-pre = "<i class='far fa-envelope'></i>"
-url = "/contact/"
-weight = 6
-[Languages.zh-CN]
-LanguageCode = "zh-CN"
-LanguageName = "中文 (简体)"
-weight = 7
-[Languages.zh-TW]
-LanguageCode = "zh-TW"
-LanguageName = "中文 (正體)"
-weight = 8
->>>>>>> 2ed7320d49e3e84ec975b63a42361f465c9e84df
 [markup.goldmark.renderer]
-unsafe = true
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-pre = "<i class='far fa-envelope'></i>"
-url = "/contact/"
-weight = 7
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-pre = "<i class='far fa-newspaper'></i>"
-url = "/blog/"
-weight = 6
-[[menu.main]]
-identifier = "about"
-name = "About"
-pre = "<i class='far fa-id-card'></i>"
-url = "/about/"
-weight = 2
-[[menu.main]]
-identifier = "home"
-name = "Home"
-pre = "<i class='fa fa-home'></i>"
-url = "/"
-weight = 1
+  unsafe                = true
+
 [outputs]
-home = ["html", "json", "rss"]
+  home                  = ["html", "json", "rss"]
+
 [params]
-<<<<<<< HEAD
   enableCDN             = false
   cssFiles              = ["default"]
   jsFiles               = ["default"]
@@ -526,110 +325,52 @@ home = ["html", "json", "rss"]
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
 
-=======
-cssFiles = ["default"]
-enableCDN = false
-hideEmptyStats = false
-highlightjs = true
-highlightjsLang = []
-highlightjsTheme = ""
-imageStretch = ""
-jsFiles = ["default"]
-readingTime = true
-removeBlur = false
-socialShare = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
-viewMorePostsLink = "/blog/"
-[params.footer]
-rssFooter = true
-socialFooter = true
-[params.header]
-dynamicTitles = true
-languageMenu = true
-navbarTitle = "Future Imperfect"
-searchMenu = true
-shareMenu = true
-[params.intro]
-alwaysOnHomepage = false
-header = "Hugo Future Imperfect Slim"
-hideWhenSingleColumn = false
-paragraph = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
-rssIntro = true
-socialIntro = true
-[params.intro.pic]
-alt = "Hugo Future Imperfect Slim"
-shape = "circle"
-src = "img/main/logo.jpg"
-width = ""
-[params.meta]
-author = "HTML5UP and Hugo"
-description = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-favicon = false
-faviconVersion = "1"
-iOSColor = "#ffffff"
-msColor = "#ffffff"
-svg = true
-[params.sidebar]
-about = "This theme was developed for Hugo static site generator."
-categories = true
-categoriesByCount = true
-postAmount = 5
-[params.staticman]
-api = ""
-branch = ""
-enabled = true
-gitProvider = ""
-repo = ""
-username = ""
-[params.staticman.recaptcha]
-encryptedKey = ""
-siteKey = ""
-[params.utterances]
-enabled = false
-issueNumber = ""
-issueTerm = "pathname"
-label = ""
-repo = ""
-theme = "github-light"
->>>>>>> 2ed7320d49e3e84ec975b63a42361f465c9e84df
 [social]
-behance = ""
-bitbucket = ""
-codepen = ""
-deviantart = ""
-dribbble = ""
-email = "example"
-facebook = "example"
-flickr = "example"
-foursquare = ""
-github = "pacollins/hugo-future-imperfect-slim"
-gitlab = ""
-googleplus = ""
-googlescholar = ""
-instagram = "example"
-jsfiddle = ""
-keybase = "example"
-linkedin = "example"
-linkedin_company = "examplebusiness"
-mastodon = "example.com/@example"
-medium = ""
-orcid = ""
-pinterest = "example"
-qq = ""
-quora = ""
-reddit = "example"
-researchgate = "example"
-skype = ""
-slideshare = ""
-snapchat = ""
-stackoverflow = ""
-strava = ""
-telegram = "example"
-tumblr = ""
-twitter = "example"
-vimeo = ""
-vine = ""
-wechat = ""
-whatsapp = ""
-wordpress = ""
-xing = ""
-youtube = ""
+  # Coding Communities
+  github                = "pacollins/hugo-future-imperfect-slim"
+  gitlab                = ""
+  stackoverflow         = "" # User Number
+  bitbucket             = ""
+  jsfiddle              = ""
+  codepen               = ""
+  # Visual Art Communities
+  deviantart            = ""
+  flickr                = "example"
+  behance               = ""
+  dribbble              = ""
+  # Publishing Communities
+  wordpress             = ""
+  medium                = ""
+  # Professional/Business Oriented Communities
+  linkedin              = "example"
+  linkedin_company      = "examplebusiness"
+  foursquare            = ""
+  xing                  = ""
+  slideshare            = ""
+  # Social Networks
+  facebook              = "example"
+  googleplus            = ""
+  reddit                = "example"
+  quora                 = ""
+  youtube               = ""
+  vimeo                 = ""
+  whatsapp              = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat              = ""
+    qq                  = "" # User ID Number
+  instagram             = "example"
+  tumblr                = ""
+  twitter               = "example"
+  strava                = ""
+  skype                 = ""
+  snapchat              = ""
+  pinterest             = "example"
+  telegram              = "example"
+  vine                  = ""
+  googlescholar         = ""
+  orcid                 = ""
+  researchgate          = "example"
+  keybase               = "example"
+  mastodon              = "example.com/@example"
+  # Email
+  email                 = "example"
